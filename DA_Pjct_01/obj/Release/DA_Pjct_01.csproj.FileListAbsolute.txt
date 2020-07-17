@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\bin\Release\DA_Pjct_01.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\bin\Release\DA_Pjct_01.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\bin\Release\DA_Pjct_01.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\obj\Release\DA_Pjct_01.Pepe01.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\obj\Release\DA_Pjct_01.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\obj\Release\DA_Pjct_01.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\obj\Release\DA_Pjct_01.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\obj\Release\DA_Pjct_01.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\DA_Pjct_01\DA_Pjct_01\obj\Release\DA_Pjct_01.csprojResolveAssemblyReference.cache
